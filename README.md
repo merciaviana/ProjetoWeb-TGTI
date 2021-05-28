@@ -3,10 +3,10 @@ Nesse projeto iremos abordar um site institucional, onde serão mostrados o proj
 Informamos que as linguagens utilizadas para a criação, o desenvolvimento e o fim desse projeto foi HTML e CSS, com o auxílio do Bootstrap.
 
 
-
 |    RA   |    NOME COMPLETO    | CURSO | TURMA |
 |---------|---------------------|-------|-------|
-|319102327| Mateus Lima Soares  | TGTI  |   5A  |
-|319100067| Mercia Viana Batista| TGTI  |   5A  |
+|319102327| Mateus Lima Soares  | TGTI  |   1° 19  |
+|319100067| Mercia Viana Batista| TGTI  |   1° 19  |
+
 
 
